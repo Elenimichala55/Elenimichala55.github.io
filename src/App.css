@@ -16,11 +16,26 @@
   --shadow: 0 0 30px rgba(192, 132, 252, 0.22);
 }
 
+html {
+  background: var(--bg);
+  color: var(--text);
+}
+
 body {
   margin: 0;
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background: var(--bg);
   color: var(--text);
+}
+
+button,
+a,
+p,
+h1,
+h2,
+h3,
+span {
+  color: inherit;
 }
 
 a {
