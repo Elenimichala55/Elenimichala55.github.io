@@ -34,7 +34,7 @@ function App() {
         "A product review intelligence pipeline for analysing Amazon Electronics reviews, filtering useful reviews, extracting product aspects, and visualising product-level insights. Developed as part of a group assignment for the WM9B7 Artificial Intelligence & Deep Learning module.",
       tech: ["Python", "TF-IDF", "BiLSTM", "DistilRoBERTa", "LLaMA 3.1", "LIME"],
       links: [
-        { label: "Repository", url: "https://github.com/Elenimichala55/product-review-intelligence-pipeline" },
+        { label: "Repository", url: "https://github.com/Elenimichala55/amazon-review-intelligence-pipeline" },
         { label: "Frontend Demo", url: "https://elenimichala55.github.io/amazon-reviews-dataset-frontend/" },
         { label: "Frontend Repository", url: "https://github.com/Elenimichala55/amazon-reviews-dataset-frontend" },
       ],
@@ -66,7 +66,7 @@ function App() {
         "A Streamlit dashboard for analysing public health indicators such as life expectancy and obesity prevalence. Includes filtering, trend analysis, descriptive statistics, CRUD operations, activity logging, and CSV export.",
       tech: ["Streamlit", "SQLite", "Pandas", "Altair", "Python"],
       links: [
-        { label: "Repository", url: "https://github.com/Elenimichala55/public-health-dashboard" },
+        { label: "Repository", url: "https://github.com/Elenimichala55/public_health_dashboard" },
       ],
     },
     {
