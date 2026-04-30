@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   const projects = [
     {
-      title: "EcoCharge+: Sustainable EV Charging using Micro Grids",
+      title: <>EcoCharge<sup>+</sup>: Sustainable EV Charging using Micro Grids</>,
       type: "BSc Dissertation / Research Project",
       description:
         "A full-stack system for recommending eco-friendly EV charging routes using microgrid-powered stations, solar production estimates, and spatial-temporal data. The system is deployed on the University of Cyprus Computer Science domain, and a related paper has been submitted to IEEE Mobile Data Management Conference 2026.",
