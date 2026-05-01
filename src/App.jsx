@@ -67,6 +67,7 @@ function App() {
       tech: ["Streamlit", "SQLite", "Pandas", "Altair", "Python"],
       links: [
         { label: "Repository", url: "https://github.com/Elenimichala55/public_health_dashboard" },
+        { label: "Frontend Demo", url: "https://publichealth-dashboard.streamlit.app/" },
       ],
     },
     {
