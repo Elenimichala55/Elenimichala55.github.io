@@ -108,8 +108,8 @@ function App() {
         <p className="eyebrow">MSc Applied Artificial Intelligence</p>
         <h1>Eleni Michala</h1>
         <p className="hero-text">
-          Computer Science graduate currently pursuing an MSc in Applied AI at the
-          University of Warwick. I build machine learning, deep learning, data,
+          Computer Science graduate from the University of Cyprus, currently pursuing an MSc in Applied ARtificial Intelligence 
+          at the University of Warwick. I build machine learning, deep learning, data,
           backend, and full-stack systems with a focus on practical real-world applications.
         </p>
 
